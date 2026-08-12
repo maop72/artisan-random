@@ -64,7 +64,7 @@ specification](docs/artisan_random.md).
 
 ## Testing
 
-`gen_numbers.py` generates random test input for testing the
+`tools/gen_numbers.py` generates random test input for testing the
 program. It must not be used for real wallet generation.
 
 
