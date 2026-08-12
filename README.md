@@ -15,7 +15,7 @@ ArtisanRandom requires Python 3 and has no external dependencies.
 
 1.  Generate 23 random four-digit numbers between `0000` and
     `1999`, using one of the physical procedures described in the
-    [specification](docs/artisanRandom.md).
+    [specification](docs/artisan_random.md).
 
 2.  Save the numbers, one per line, in `numbers.txt`.
 
@@ -56,11 +56,11 @@ online service.
 
 The complete generation procedure and security considerations are
 described in the [ArtisanRandom
-specification](docs/artisanRandom.md).
+specification](docs/artisan_random.md).
 
 ## Documentation
 
-- [ArtisanRandom specification](docs/artisanRandom.md)
+- [ArtisanRandom specification](docs/artisan_random.md)
 
 ## Testing
 
