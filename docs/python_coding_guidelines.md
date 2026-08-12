@@ -1,6 +1,5 @@
 # Introduction
 
-- Title: coding_details.md
 - Author: Miguel Ortuño
 - Date: August 2026
 
